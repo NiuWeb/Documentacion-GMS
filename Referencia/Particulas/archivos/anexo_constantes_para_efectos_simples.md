@@ -1,0 +1,1 @@
+# Anexo: Constantes para efectos simples
